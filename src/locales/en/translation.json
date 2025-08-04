@@ -1,0 +1,17 @@
+{
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "dontHaveAccount": "Don't have an account? Sign Up",
+  "alreadyHaveAccount": "Already have an account? Sign In",
+  "welcome": "Welcome",
+  "dashboard": "Dashboard",
+  "logout": "Logout",
+  "requiredField": "This field is required",
+  "invalidEmail": "Invalid email address",
+  "passwordMinLength": "Password must be at least 8 characters",
+  "networkOffline": "You are offline. Please check your connection."
+}

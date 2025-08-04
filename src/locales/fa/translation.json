@@ -1,0 +1,17 @@
+{
+  "signIn": "ورود",
+  "signUp": "ثبت نام",
+  "email": "ایمیل",
+  "password": "رمز عبور",
+  "firstName": "نام",
+  "lastName": "نام خانوادگی",
+  "dontHaveAccount": "حساب کاربری ندارید؟ ثبت نام کنید",
+  "alreadyHaveAccount": "قبلا ثبت نام کرده‌اید؟ وارد شوید",
+  "welcome": "خوش آمدید",
+  "dashboard": "داشبورد",
+  "logout": "خروج",
+  "requiredField": "این فیلد الزامی است",
+  "invalidEmail": "آدرس ایمیل نامعتبر است",
+  "passwordMinLength": "رمز عبور باید حداقل ۸ کاراکتر باشد",
+  "networkOffline": "شما آفلاین هستید. لطفا اتصال اینترنت خود را بررسی کنید."
+}
